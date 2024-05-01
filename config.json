@@ -2,12 +2,17 @@
 	"title" : "Simple Dash",
 	"items" : [
 		{
-			"alt" : "Github",
+			"alt" : "DEXI Github",
 			"icon" : "fab fa-github",
-			"link" : "https://github.com/kutyla-philipp"
+			"link" : "https://github.com/droneblocks/dexi"
 		},
 		{
-			"alt" : "Twitter",
+			"alt" : "DroneBlocks Discord",
+			"icon" : "fab fa-discord",
+			"link" : "https://twitter.com/Kukielka_"
+		},
+		{
+			"alt" : "DroneBlocks Twitter",
 			"icon" : "fab fa-twitter",
 			"link" : "https://twitter.com/Kukielka_"
 		},
