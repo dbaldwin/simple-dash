@@ -2,6 +2,26 @@
 	"title" : "Simple Dash",
 	"items" : [
 		{
+			"alt" : "DEXI Curriculum",
+			"icon" : "fa-solid fa-school",
+			"link" : "https://learn.droneblocks.io"
+		},
+		{
+			"alt" : "DroneBlocks",
+			"icon" : "fa-solid fa-x",
+			"link" : "http://192.168.4.55:7777"
+		},
+		{
+			"alt" : "Visual Studio Code",
+			"icon" : "fa-solid fa-code",
+			"link" : "http://192.168.4.55:8080"
+		},
+		{
+			"alt" : "Terminal",
+			"icon" : "fa-solid fa-terminal",
+			"link" : "http://192.168.4.55:7681"
+		},
+		{
 			"alt" : "DEXI Github",
 			"icon" : "fab fa-github",
 			"link" : "https://github.com/droneblocks/dexi"
@@ -9,17 +29,12 @@
 		{
 			"alt" : "DroneBlocks Discord",
 			"icon" : "fab fa-discord",
-			"link" : "https://twitter.com/Kukielka_"
+			"link" : "https://discord.gg/nPKdYyqs"
 		},
 		{
-			"alt" : "DroneBlocks Twitter",
-			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
-		},
-		{
-			"alt" : "Docker Hub",
-			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"alt" : "DroneBlocks Support",
+			"icon" : "fa-solid fa-question",
+			"link" : "https://community.droneblocks.io"
 		}
 	]
 }
