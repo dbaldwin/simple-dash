@@ -9,17 +9,17 @@
 		{
 			"alt" : "DroneBlocks",
 			"icon" : "fa-solid fa-x",
-			"link" : "http://192.168.4.55:7777"
+			"link" : "http://127.0.0.1:7777"
 		},
 		{
 			"alt" : "Visual Studio Code",
 			"icon" : "fa-solid fa-code",
-			"link" : "http://192.168.4.55:8080"
+			"link" : "http://127.0.0.1:8080"
 		},
 		{
 			"alt" : "Terminal",
 			"icon" : "fa-solid fa-terminal",
-			"link" : "http://192.168.4.55:7681"
+			"link" : "http://127.0.0.1:7681"
 		},
 		{
 			"alt" : "DEXI Github",
